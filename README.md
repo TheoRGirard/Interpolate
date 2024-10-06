@@ -1,2 +1,4 @@
 # Interpolate
-A lib to interpolate via Bernstein polynomials on Openscad.
+A lib to extrude shapes using interpolation via Bernstein polynomials on Openscad.
+
+Coming soon...
